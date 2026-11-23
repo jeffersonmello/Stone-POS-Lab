@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" viewBox="0 0 192 192" role="img" aria-labelledby="title">
+  <title id="title">Stone POS Lab</title>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#172722"/>
+      <stop offset="1" stop-color="#0B1514"/>
+    </linearGradient>
+    <linearGradient id="terminal" x1="0" y1="0" x2="0" y2="1">
+      <stop stop-color="#284735"/>
+      <stop offset="1" stop-color="#142823"/>
+    </linearGradient>
+  </defs>
+  <rect x="5" y="5" width="182" height="182" rx="43" fill="url(#background)" stroke="#315643" stroke-width="2"/>
+  <path d="M53 49H43a4 4 0 0 0-4 4v10m100-14h10a4 4 0 0 1 4 4v10M53 143H43a4 4 0 0 1-4-4v-10m100 14h10a4 4 0 0 0 4-4v-10"
+        fill="none" stroke="#4D9269" stroke-width="4" stroke-linecap="round"/>
+  <path d="M82 43V32l7 4 7-4 7 4 7-4v11" fill="#A0F0B6" stroke="#A0F0B6" stroke-width="3" stroke-linejoin="round"/>
+  <rect x="64" y="43" width="64" height="109" rx="14" fill="url(#terminal)" stroke="#A0F0B6" stroke-width="4"/>
+  <path d="M81 55h30" stroke="#77BA91" stroke-width="3" stroke-linecap="round"/>
+  <rect x="75" y="66" width="42" height="46" rx="7" fill="#0D1E19" stroke="#51876A" stroke-width="2"/>
+  <path d="m85 90 7 7 15-17" fill="none" stroke="#A0F0B6" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <g fill="#77BA91">
+    <rect x="80" y="121" width="8" height="5" rx="2.5"/>
+    <rect x="92" y="121" width="8" height="5" rx="2.5"/>
+    <rect x="104" y="121" width="8" height="5" rx="2.5"/>
+  </g>
+  <path d="M85 136h22" stroke="#A0F0B6" stroke-width="3" stroke-linecap="round"/>
+</svg>

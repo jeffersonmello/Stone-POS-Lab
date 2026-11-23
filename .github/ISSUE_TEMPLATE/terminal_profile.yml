@@ -1,0 +1,30 @@
+name: Adicionar ou corrigir perfil
+description: Registre um terminal SmartPOS ou corrija uma informação do catálogo com evidências.
+body:
+  - type: input
+    id: terminal
+    attributes:
+      label: Fabricante, modelo e variante
+      placeholder: Ex. Sunmi P2-A11
+    validations:
+      required: true
+  - type: textarea
+    id: changes
+    attributes:
+      label: Dados a registrar ou corrigir
+      description: Liste os campos e valores propostos. Quando houver medição física, informe a versão do Android, API e firmware da unidade.
+      placeholder: Ex. resolução, densidade, RAM, armazenamento, ABI ou periféricos.
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Fontes e data de verificação
+      description: Inclua links para documentação pública ou medições de bancada sanitizadas. Identifique o que foi medido, o que foi publicado e o que ainda precisa de confirmação.
+    validations:
+      required: true
+  - type: textarea
+    id: impact
+    attributes:
+      label: Efeito observado em teste
+      description: Se houver, informe como a diferença afeta o perfil Android ou a reprodução de um problema.

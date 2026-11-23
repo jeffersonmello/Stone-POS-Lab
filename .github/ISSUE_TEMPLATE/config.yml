@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Relatar uma vulnerabilidade
+    url: https://github.com/jeffersonmello/Stone-POS-Lab/security
+    about: Consulte a política de segurança antes de compartilhar detalhes.

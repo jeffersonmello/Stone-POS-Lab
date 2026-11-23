@@ -1,0 +1,326 @@
+[
+  {
+    "id": "sunmi-p2-b",
+    "brand": "Sunmi",
+    "model": "P2-B",
+    "android": "7.1",
+    "api": 25,
+    "width": 720,
+    "height": 1440,
+    "dpi": null,
+    "specs": {
+      "Variante": "P2 A7",
+      "Tela": "5,5″ HD+ multitoque capacitivo",
+      "Processador": "Cortex-A53 quad-core de 1,5 GHz",
+      "Memória e armazenamento": "1 GB + 8 GB. Opção de 2 GB + 16 GB",
+      "Conectividade": "2G/3G/4G, Wi-Fi 2,4 e 5 GHz, Bluetooth e BLE",
+      "Leitores": "Chip, tarja magnética e NFC",
+      "Impressora": "Térmica de 58 mm, 70 mm/s, bobina de até 40 mm",
+      "Câmeras": "Traseira de 5 MP com flash e frontal opcional de 0,3 MP",
+      "Conexão": "USB-C com OTG"
+    },
+    "sources": [
+      {"title": "Stone · Android por modelo", "url": "https://sdkandroid.stone.com.br/reference/pre-requisitos"},
+      {"title": "Sunmi · Ficha técnica P2 com Android 7.1", "url": "https://file.cdn.sunmi.com/newebsite/downloads/specs/en/p2.pdf"}
+    ],
+    "notes": "A Stone informa Android 7.1. Os dados de hardware vêm da ficha Sunmi do P2 com Android 7.1. Memória, bateria e opcionais variam por lote."
+  },
+  {
+    "id": "sunmi-p2-a11",
+    "brand": "Sunmi",
+    "model": "P2-A11",
+    "android": "11",
+    "api": 30,
+    "width": 720,
+    "height": 1440,
+    "dpi": null,
+    "specs": {
+      "Variante": "P2-P (P2 A11)",
+      "Sistema do fabricante": "SUNMI OS com base no Android 11 Go",
+      "Tela": "5,5″ HD+ multitoque capacitivo",
+      "Processador": "Cortex-A53 quad-core de 1,5 GHz",
+      "Memória e armazenamento": "1 GB + 8 GB. Opção de 2 GB + 16 GB",
+      "Conectividade": "2G/3G/4G, Wi-Fi 2,4 e 5 GHz, Bluetooth e BLE",
+      "Leitores": "Chip, tarja magnética e NFC",
+      "Impressora": "Térmica de 58 mm, 70 mm/s, bobina de até 40 mm",
+      "Câmeras": "Traseira de 5 MP com flash e frontal opcional de 0,3 MP",
+      "Conexão": "USB-C com OTG"
+    },
+    "sources": [
+      {"title": "Stone · Variantes P2 suportadas", "url": "https://sdkandroid.stone.com.br/docs/dispositivos-suportados-1"},
+      {"title": "Stone · Build para Sunmi com Android 11", "url": "https://sdkandroid.stone.com.br/reference/processo-de-build-de-aplica%C3%A7%C3%A3o"},
+      {"title": "Sunmi · Ficha do P2 com Android 11 Go", "url": "https://www.sunmi.com/eu/p2/"}
+    ],
+    "notes": "O hardware publicado pela Sunmi para o P2 com Android 11 Go serve de referência. Confirme a configuração da unidade Stone, especialmente os opcionais."
+  },
+  {
+    "id": "positivo-l300",
+    "brand": "Positivo",
+    "model": "L300",
+    "android": "7.1",
+    "api": 25,
+    "width": 720,
+    "height": 1280,
+    "dpi": null,
+    "specs": {
+      "Variante": "L3",
+      "Tela": "5″ HD IPS com multitoque capacitivo",
+      "Processador": "Cortex-A53 quad-core de 1,3 GHz",
+      "Memória e armazenamento": "1 GB + 8 GB",
+      "Conectividade": "2G/3G/4G, Wi-Fi 2,4 e 5 GHz e Bluetooth 4.2",
+      "Leitores": "Chip, tarja magnética e NFC",
+      "Teclado": "15 teclas físicas e botões de energia e volume",
+      "Impressora": "30 linhas/s, bobina de 40 × 58 mm",
+      "Câmeras": "Traseira de 5 MP com autofoco e frontal VGA",
+      "Conexão": "USB-C",
+      "Localização": "GPS, A-GPS e GLONASS"
+    },
+    "sources": [
+      {"title": "Stone · Android por modelo", "url": "https://sdkandroid.stone.com.br/reference/pre-requisitos"},
+      {"title": "Stone · Manual Positivo L3", "url": "https://ajuda.stone.com.br/l3/conheca-a-maquina-positivo-l3"},
+      {"title": "Positivo · Ficha original L300 Android 7.1", "url": "https://www.yourpay.com.br/wp-content/uploads/2023/01/FT_L300-V01.pdf"},
+      {"title": "Cielo · Especificações da variante L300 v3", "url": "https://docs.cielo.com.br/cielo-smart/docs/terminais-e-caracteristicas-da-cielo-smart"}
+    ],
+    "notes": "Perfil Android 7.1 conforme a matriz Stone. Há fichas de outras variantes chamadas L300 com Android 11. Confirme a revisão e o firmware antes de comparar resultados."
+  },
+  {
+    "id": "positivo-l400",
+    "brand": "Positivo",
+    "model": "L400",
+    "android": "11",
+    "api": 30,
+    "width": 720,
+    "height": 1600,
+    "dpi": null,
+    "specs": {
+      "Variante": "L4",
+      "Tela": "6,5″ IPS HD+",
+      "Processador": "Cortex-A53 quad-core de 2,0 GHz",
+      "Memória e armazenamento": "2 GB + 8 GB. Armazenamento de 32 GB opcional",
+      "Conectividade": "2G/3G/4G, Wi-Fi 2,4 e 5 GHz e Bluetooth 5.0",
+      "Leitores": "Chip, tarja magnética e NFC",
+      "Impressora": "Térmica, bobina de 40 × 58 mm",
+      "Câmeras": "Traseira de 5 MP e frontal de 2 MP",
+      "Conexão": "USB-C"
+    },
+    "sources": [
+      {"title": "Stone · Android por modelo", "url": "https://sdkandroid.stone.com.br/reference/pre-requisitos"},
+      {"title": "Stone · Manual Positivo L4", "url": "https://ajuda.stone.com.br/pt_BR/l4/conheca-a-maquina-positivo-l4"},
+      {"title": "Positivo · Ficha técnica L400", "url": "https://positivo.solucoesempagamentos.com.br/wp-content/uploads/2023/12/FT_L400.pdf"}
+    ],
+    "notes": "A Stone informa Android 11. Tela, memória e periféricos vêm da ficha do fabricante. Armazenamento e câmera podem variar entre versões comerciais."
+  },
+  {
+    "id": "positivo-d400",
+    "brand": "Positivo",
+    "model": "D400",
+    "android": "11",
+    "api": 30,
+    "width": 480,
+    "height": 854,
+    "dpi": null,
+    "specs": {
+      "Sistema do fabricante": "Android 11 Go",
+      "Tela": "5″",
+      "Processador": "ARM Cortex-A53",
+      "Memória e armazenamento": "1 GB + 8 GB",
+      "Conectividade": "Wi-Fi de duas bandas, Bluetooth 5.0 e 4G",
+      "Leitores": "Chip, tarja magnética e NFC",
+      "Impressora": "Térmica, bobina de 40 × 58 mm",
+      "Câmera": "Traseira de 2 MP",
+      "Conexão": "USB-C",
+      "Bateria": "5.000 mAh a 3,8 V"
+    },
+    "sources": [
+      {"title": "Stone · Matriz de modelos suportados", "url": "https://sdkandroid.stone.com.br/reference/dispositivos-suportados"},
+      {"title": "Positivo · Ficha técnica D400", "url": "https://positivo.solucoesempagamentos.com.br/wp-content/uploads/2025/01/FT-D400-PORT.pdf"}
+    ],
+    "notes": "Android e dimensões de tela vêm da ficha da Positivo. A versão do firmware Stone da unidade fica pendente de verificação."
+  },
+  {
+    "id": "gertec-gpos-710",
+    "brand": "Gertec",
+    "model": "GPOS 710",
+    "android": "13",
+    "api": 33,
+    "width": 720,
+    "height": 1280,
+    "dpi": null,
+    "specs": {
+      "Tela": "5″ multitoque",
+      "Processador": "Cortex-A53 quad-core de 2 GHz",
+      "Memória e armazenamento": "2 GB + 16 GB. microSD até 128 GB",
+      "Conectividade": "2G/3G/4G, Wi-Fi 2,4 e 5 GHz e Bluetooth 5.0",
+      "Leitores": "Chip, tarja magnética e NFC",
+      "Impressora": "80 mm/s, bobina de até 40 mm",
+      "Câmeras": "Traseira de 5 MP com flash e frontal opcional de 2 MP",
+      "Conexão": "USB-C",
+      "Bateria": "5.200 mAh a 3,6 V"
+    },
+    "sources": [
+      {"title": "Stone · Matriz de modelos suportados", "url": "https://sdkandroid.stone.com.br/reference/dispositivos-suportados"},
+      {"title": "Gertec · Ficha técnica GPOS710", "url": "https://loja.gertec.com.br/smartpos-gpos710/p"},
+      {"title": "Urovo · Ficha da plataforma i5300L", "url": "https://en.urovo.com/products/payment/i5300L.html"}
+    ],
+    "notes": "A ficha da Gertec informa 720 × 1280. A plataforma i5300L também tem outras configurações de tela. Confirme a resolução e o firmware na unidade Stone."
+  },
+  {
+    "id": "gertec-gpos-730",
+    "brand": "Gertec",
+    "model": "GPOS 730",
+    "android": "13",
+    "api": 33,
+    "width": 720,
+    "height": 1280,
+    "dpi": null,
+    "specs": {
+      "Tela": "5,5″ multitoque",
+      "Processador": "Cortex-A53 quad-core de 2 GHz",
+      "Memória e armazenamento": "2 GB + 32 GB. microSD até 128 GB",
+      "Conectividade": "2G/3G/4G, Wi-Fi 2,4 e 5 GHz e Bluetooth 5.0 BLE",
+      "Leitores": "Chip, tarja magnética e NFC",
+      "Impressora": "80 mm/s, bobina de até 40 mm",
+      "Câmera": "Traseira de 5 MP com flash",
+      "Conexão": "USB-C",
+      "Bateria": "5.200 mAh a 3,6 V"
+    },
+    "sources": [
+      {"title": "Stone · Matriz de modelos suportados", "url": "https://sdkandroid.stone.com.br/reference/dispositivos-suportados"},
+      {"title": "Stone · Processo de build e variantes", "url": "https://sdkandroid.stone.com.br/reference/processo-de-build-de-aplica%C3%A7%C3%A3o"},
+      {"title": "Gertec · GPOS730 para desenvolvimento", "url": "https://loja.gertec.com.br/gpos730-dev/p"}
+    ],
+    "notes": "Android e dimensões de tela vêm da ficha da Gertec. A Stone documenta o GPOS 730 no flavor gertecGposSeries7. A versão do firmware da unidade fica pendente de verificação."
+  },
+  {
+    "id": "gertec-gpos-760",
+    "brand": "Gertec",
+    "model": "GPOS 760",
+    "android": "11",
+    "api": 30,
+    "width": 480,
+    "height": 800,
+    "dpi": null,
+    "specs": {
+      "Tela": "4″ multitoque",
+      "Processador": "Cortex-A53 quad-core de 1,5 GHz",
+      "Memória e armazenamento": "1 GB + 8 GB. TF Card até 64 GB",
+      "Conectividade": "2G/3G/4G, Wi-Fi 2,4 e 5 GHz e Bluetooth 4.2 BLE",
+      "Leitores": "Chip, tarja magnética e NFC",
+      "Teclado": "Físico",
+      "Impressora": "Térmica, 90 mm/s, bobina de até 40 mm",
+      "Bateria": "2.600 mAh a 7,2 V"
+    },
+    "sources": [
+      {"title": "Stone · Matriz de modelos suportados", "url": "https://sdkandroid.stone.com.br/reference/dispositivos-suportados"},
+      {"title": "Gertec · Ficha técnica GPOS760", "url": "https://loja.gertec.com.br/gpos760-multi/p"}
+    ],
+    "notes": "Android e dimensões de tela vêm da ficha da Gertec. A versão do firmware Stone da unidade fica pendente de verificação."
+  },
+  {
+    "id": "tectoy-t8",
+    "brand": "Tectoy",
+    "model": "T8",
+    "android": "11",
+    "api": 30,
+    "width": 720,
+    "height": 1600,
+    "dpi": null,
+    "specs": {
+      "Sistema do fabricante": "Android 11 Go",
+      "Tela": "6,517″ IPS HD+ touchscreen",
+      "Processador": "MediaTek Cortex quad-core",
+      "Memória e armazenamento": "1 GB + 8 GB. Variante de 2 GB + 16 GB",
+      "Conectividade": "Wi-Fi e eSIM com 2G/3G/4G",
+      "Leitores": "Chip, tarja magnética e NFC",
+      "Impressora": "Térmica integrada de 2″",
+      "Câmeras": "Frontal e traseira de 2 MP",
+      "Conexão": "USB-C com OTG",
+      "Localização": "GPS, A-GPS, GLONASS e BeiDou"
+    },
+    "sources": [
+      {"title": "Stone · Manual Tectoy T8", "url": "https://ajuda.stone.com.br/t8/conheca-a-maquina-tectoy-t8"},
+      {"title": "Transire Tectoy · Especificações do T8", "url": "https://transire.communitas.com.br/"}
+    ],
+    "notes": "A Stone informa Android 11 e documenta a conectividade por eSIM. A tela e as variantes de memória são da ficha Transire Tectoy."
+  },
+  {
+    "id": "transire-s8s",
+    "brand": "Transire",
+    "model": "S8s",
+    "android": "13",
+    "api": 33,
+    "width": 720,
+    "height": 1440,
+    "dpi": null,
+    "specs": {
+      "Linha do fabricante": "Zire",
+      "Tela": "5,45″",
+      "Processador": "Cortex-A53 quad-core de 2 GHz",
+      "Memória e armazenamento": "2 GB + 32 GB. microSD até 256 GB",
+      "Bateria": "5.100 mAh a 3,6 V",
+      "Dimensões": "185 × 79,66 × 52,5 mm"
+    },
+    "sources": [
+      {"title": "Stone · Matriz de modelos suportados", "url": "https://sdkandroid.stone.com.br/reference/dispositivos-suportados"},
+      {"title": "Transire · Ficha técnica Zire S8S", "url": "https://www.transire.com/meios-de-pagamento/zire/serie-8/s8s"}
+    ],
+    "notes": "Android e dimensões de tela vêm da ficha da Transire. A versão do firmware Stone da unidade fica pendente de verificação."
+  },
+  {
+    "id": "gertec-gpos-700x",
+    "brand": "Gertec",
+    "model": "GPOS 700X",
+    "android": "8.1",
+    "api": 27,
+    "width": 720,
+    "height": 1280,
+    "dpi": null,
+    "specs": {
+      "Cobertura": "Referência histórica Stone",
+      "Tela": "5,5″ multitoque capacitivo",
+      "Processador": "Qualcomm quad-core de 1,28 GHz na ficha citada",
+      "Memória e armazenamento": "1 GB + 8 GB. TF Card até 64 GB",
+      "Conectividade": "2G/3G/4G, Wi-Fi 2,4 e 5 GHz e Bluetooth 4.0 BLE",
+      "Leitores": "Chip, tarja magnética e NFC",
+      "Impressora": "75 mm/s, bobina de até 40 mm",
+      "Câmera": "Traseira de 5 MP com flash",
+      "Conexão": "Micro USB 2.0 com OTG",
+      "Bateria": "6.000 mAh a 3,7 V"
+    },
+    "sources": [
+      {"title": "Stone · Android por modelo", "url": "https://sdkandroid.stone.com.br/reference/pre-requisitos"},
+      {"title": "Stone · FAQ POS Android", "url": "https://sdkandroid.stone.com.br/page/pos-android"},
+      {"title": "Gertec · GPOS700X para desenvolvimento", "url": "https://loja.gertec.com.br/gpos700x-dev/p"}
+    ],
+    "notes": "Perfil legado citado nos pré-requisitos e na FAQ da Stone. A matriz principal do SDK lista os modelos mais recentes separadamente."
+  },
+  {
+    "id": "ingenico-apos-a8",
+    "brand": "Ingenico",
+    "model": "APOS A8",
+    "android": "5.1",
+    "api": 22,
+    "width": 720,
+    "height": 1280,
+    "dpi": null,
+    "specs": {
+      "Cobertura": "Connect 2.0 e registro histórico do SDK Stone",
+      "Tela": "5,5″ IPS com toque capacitivo",
+      "Processador": "Cortex-A7 quad-core",
+      "Memória e armazenamento": "1 GB + 8 GB. Variante de 2 GB + 16 GB",
+      "Conectividade": "Wi-Fi e Bluetooth 3.x. Rede 2G/3G/4G opcional",
+      "Leitores": "Chip, tarja magnética e NFC",
+      "Impressora": "Térmica de 58 mm, bobina de até 40 mm",
+      "Câmera": "Traseira de 5 MP com flash e scanner frontal de códigos 1D/2D",
+      "Conexão": "Micro USB com OTG",
+      "Bateria": "Duas células de 2.600 mAh"
+    },
+    "sources": [
+      {"title": "Stone · Equipamentos do Connect 2.0", "url": "https://ajuda.stone.com.br/connect-20"},
+      {"title": "Stone · Histórico do SDK Android", "url": "https://sdkandroid.stone.com.br/reference/changelog"},
+      {"title": "Stone · Pré-requisitos atuais do SDK", "url": "https://sdkandroid.stone.com.br/reference/pre-requisitos"},
+      {"title": "Ingenico · Ficha técnica original do APOS A8", "url": "https://www.yourpay.com.br/wp-content/uploads/2020/10/apos-A8_pt_ld.pdf"}
+    ],
+    "notes": "Referência para terminais legados do Connect 2.0. O Android 5.1 da ficha Ingenico corresponde à API 22, abaixo do mínimo API 23 publicado nos pré-requisitos atuais do SDK Stone."
+  }
+]

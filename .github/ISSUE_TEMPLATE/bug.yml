@@ -1,0 +1,38 @@
+name: Reportar erro
+description: Descreva um problema reproduzível no Stone POS Lab.
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Obrigado pelo relato. Use dados de teste e remova credenciais, dados de cartão e identificadores de lojista antes de anexar arquivos.
+  - type: textarea
+    id: environment
+    attributes:
+      label: Ambiente
+      description: Informe a versão do Stone POS Lab ou o commit, a versão do macOS e a arquitetura do computador.
+      placeholder: Se envolver o emulador, inclua também modelo, imagem Android, API, ABI e versão do Android Emulator.
+    validations:
+      required: true
+  - type: textarea
+    id: reproduction
+    attributes:
+      label: Passos para reproduzir
+      description: Comece pelo estado inicial da instância. Quando relevante, informe a versão e a ABI do APK de teste.
+      placeholder: |
+        1. Abra o Catálogo.
+        2. Selecione o perfil.
+        3. Crie uma instância.
+    validations:
+      required: true
+  - type: textarea
+    id: behavior
+    attributes:
+      label: Resultado observado e esperado
+      description: Descreva o que ocorreu e o que deveria ocorrer com os mesmos passos.
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Evidências
+      description: Compartilhe uma captura de tela ou um trecho de log sanitizado, se disponível.
